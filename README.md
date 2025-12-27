@@ -3,6 +3,8 @@
 
 This project implements the provided behavior tree, adding to it by providing a simple GUI and visualization of the simulation state. It uses a hierarchical behavior tree to control the robot in a simulated discrete grid environment, and perform user requested actions such as spot cleaning or general room cleaning.
 
+https://github.com/user-attachments/assets/d15c05dc-f60d-41be-96e7-0b4c362b4981
+
 ## Requirements
 - Tested using `Python 3.11`
 - Install: `pygame` for GUI and visualization
